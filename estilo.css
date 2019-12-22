@@ -1,0 +1,125 @@
+body{
+	font-family: didot;
+	background-color: #191a1e;
+	margin: 0;
+	padding: 0;
+
+}
+
+.button_up{
+	height: 40px;
+	width: 40px;
+	position: fixed;
+	top:90%;
+	left:90%;
+}
+
+
+.button_up img{
+	height: 100%;
+	width: 100%;
+}
+
+
+.nav_bar{
+	text-align: center;
+}
+
+.button{
+	color: #8a7e5b;
+	padding: 7px;
+	text-decoration: none;
+	background-color: #625242;
+	border: 1px solid #342e32;
+	position: relative;
+	top:5px;
+}
+
+
+.container{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 100px;
+	width: 61%;
+}
+
+.container div{
+	background-color: transparent;
+	border:20px solid #342e32;
+
+}
+
+.container_top{
+	margin-right: auto;
+	margin-left: auto;
+	display: inline-block;
+	width: 55%;
+	position: relative;
+	bottom: 320px;
+
+
+}
+
+.container_top div{
+	background-color:#f5e598;
+	height: 95%;
+}
+
+.container_top img{
+	width: 100%;
+	height: 100%;
+}
+
+.text{
+	text-align: center;
+	color: #a3852b;
+ 	display: inline-block;
+ 	margin-right:19.5%;
+ 	position: relative;
+ 	bottom: 200px;
+ 	left: 24.5%;
+
+}
+
+.about{
+	color:#a3852b;
+	width: 70%;
+	margin-left: 100px;
+}
+
+
+
+.info_title{
+	color:#a3852b;
+	font-size:30px;
+	width: 90%;
+	text-align: left;
+	margin-left: 20px; 
+}
+
+.footer{
+	color:#8a7e5b;
+	background-color: #625242;
+	font-size: 12px;
+	padding: 10px;
+	padding-bottom:40px;
+	padding-top:20px;
+}
+
+.footer_text{
+	display: inline-block;
+}
+
+
+
+
+Redes sociales || IG: @nobelium.uranium_ 
+<br>
+Direccion. || Fake St. 123.
+<br>
+Correo. || alexelcapo.fumaporritos@gmail.com
+<br>
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
